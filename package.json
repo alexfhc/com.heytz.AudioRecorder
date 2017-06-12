@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "com.heytz.AudioRecorder",
+  "cordova_name": "AudioRecorder",
+  "platforms": [
+    "android"
+  ],
+  "engines": []
+}
